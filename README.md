@@ -4,6 +4,8 @@ An index of all of my personal and saved notes on programming and computer scien
 
 ## Programming Languages
 
+[Course Notes: Learn JavaScript by Codecademy](https://github.com/john-ngai/codecademy_learn-javascript)
+
 [Course Notes: Learn Java by Codecademy](https://github.com/john-ngai/codecademy_learn-java)
 
 [Course Notes: Object Oriented Programming with Ruby by Launch School](https://github.com/john-ngai/OOP_launch-school)
